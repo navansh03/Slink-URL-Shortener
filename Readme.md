@@ -2,8 +2,8 @@
 
 A modern, full-stack URL shortening service built with Go (Fiber framework), Redis, and React with TypeScript. Features a beautiful dark theme with violet accents, rate limiting, custom short URLs, and expiration settings.
 
-![URL Shortener](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<!-- ![URL Shortener](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -398,9 +398,9 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+<!-- ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details. -->
 
 ## 👤 Author
 
@@ -422,4 +422,4 @@ If you have any questions or need help, please open an issue or contact me on Li
 
 ---
 
-⭐ Star this repo if you found it helpful!
+⭐ Star this repo if you found it Amazin' !
