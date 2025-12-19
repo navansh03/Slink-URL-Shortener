@@ -1,8 +1,9 @@
-# URL Shortener - Go Fiber + Redis + React
+# Slink-URL Shortener - Go Fiber + Redis + React
 
 A modern, full-stack URL shortening service built with Go (Fiber framework), Redis, and React with TypeScript. Features a beautiful dark theme with violet accents, rate limiting, custom short URLs, and expiration settings.
 
 ![URL Shortener](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
